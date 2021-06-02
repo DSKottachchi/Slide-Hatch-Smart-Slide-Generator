@@ -1,6 +1,6 @@
 # Slide-Hatch-Smart-Slide-Generator
 
-######Image Upload
+###### Image Upload
 :Image uploaded and stored in local folder and image location and url stored in database.
 ![image](https://user-images.githubusercontent.com/36261653/120465271-6a9e6c00-c3bb-11eb-931b-fd83a7d158e8.png)
 
