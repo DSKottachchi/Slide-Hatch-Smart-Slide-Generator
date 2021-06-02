@@ -1,20 +1,25 @@
 # Slide-Hatch-Smart-Slide-Generator
 
-
+**Image Upload**
+Image uploaded and stored in local folder and image location and url stored in database.
 ![image](https://user-images.githubusercontent.com/36261653/120465271-6a9e6c00-c3bb-11eb-931b-fd83a7d158e8.png)
 
 
-# Slide-Hatch-Smart-Slide-Generator
+**Recognized Text Preview**
+Text recognized from images which was uploaded and extracted.
 ![image](https://user-images.githubusercontent.com/36261653/120465332-7c800f00-c3bb-11eb-9bd2-e5db75d43ed4.png)
 
 
-# Slide-Hatch-Smart-Slide-Generator
+**Recognized Text Preview**
+Add main slide option for slide set.
 ![image](https://user-images.githubusercontent.com/36261653/120465388-8c97ee80-c3bb-11eb-878a-73de1388f811.png)
 
-# Slide-Hatch-Smart-Slide-Generator
+**Template Selection**
+Select template option, in the form of a modal for the slide set
 ![image](https://user-images.githubusercontent.com/36261653/120465441-9ae60a80-c3bb-11eb-94ea-7d1469bc874e.png)
 
-# Slide-Hatch-Smart-Slide-Generator
+**Generated Slide Set**
+Generated Slide Set for user to download and use
 ![image](https://user-images.githubusercontent.com/36261653/120465556-ba7d3300-c3bb-11eb-8ecf-d0625780a4e7.png)
 
 
