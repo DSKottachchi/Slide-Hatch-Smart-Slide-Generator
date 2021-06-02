@@ -17,11 +17,3 @@ Type in the command "npm run dev"
 *********************************************************************************************************************************************
 
 That is all that is there to it, hope it runs on your local machine. If you have any problems in setting it up, make sure to email me via: dskottachchi@uclan.ac.uk
-
-
-
-
-
-
-# Slide-Hatch-Smart-Slide-Generator
-# Slide-Hatch-Smart-Slide-Generator
