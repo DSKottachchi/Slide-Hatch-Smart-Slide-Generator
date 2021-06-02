@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Dilmi:DSKottachchi@slidehatch.yhrno.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
