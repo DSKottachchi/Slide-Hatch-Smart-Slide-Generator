@@ -1,4 +1,25 @@
 # Slide-Hatch-Smart-Slide-Generator
+
+
+![image](https://user-images.githubusercontent.com/36261653/120465271-6a9e6c00-c3bb-11eb-931b-fd83a7d158e8.png)
+
+
+# Slide-Hatch-Smart-Slide-Generator
+![image](https://user-images.githubusercontent.com/36261653/120465332-7c800f00-c3bb-11eb-9bd2-e5db75d43ed4.png)
+
+
+# Slide-Hatch-Smart-Slide-Generator
+![image](https://user-images.githubusercontent.com/36261653/120465388-8c97ee80-c3bb-11eb-878a-73de1388f811.png)
+
+# Slide-Hatch-Smart-Slide-Generator
+![image](https://user-images.githubusercontent.com/36261653/120465441-9ae60a80-c3bb-11eb-94ea-7d1469bc874e.png)
+
+# Slide-Hatch-Smart-Slide-Generator
+![image](https://user-images.githubusercontent.com/36261653/120465556-ba7d3300-c3bb-11eb-8ecf-d0625780a4e7.png)
+
+
+
+
 To get started with running the application on your local computer follow the below instructions:
 
 *********************************************************************************************************************************************
